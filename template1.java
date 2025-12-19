@@ -1,7 +1,7 @@
 import java.util.*;
 import javax.crypto.*;
 
-public class template1  {
+public class template1 {
     String method ;
     SecretKey key ;
     Cipher cipher ;
